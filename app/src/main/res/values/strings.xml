@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Smart Parking</string>
+    <string name="action_settings">Settings</string>
+    <string name="password">Password</string>
+    <string name="smart_parking">SMART PARKING</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="name">Name</string>
+    <string name="park_your_vehicle">Park Your Vehicle</string>
+    <string name="parking_app">PARKING APP</string>
+    <string name="parking_slot_1">Parking Slot 1</string>
+    <string name="parking_slot_2">Parking Slot 2</string>
+    <string name="parking_slot_3">Parking Slot 3</string>
+    <string name="fare_estimation">FARE ESTIMATION</string>
+    <string name="select_vehicle_type">Select Vehicle Type</string>
+    <string name="approx_duration_hrs">Approx. Duration(hrs)</string>
+    <string name="estimate_fare">Estimate Fare</string>
+    <string name="rate_is">"Rate is "</string>
+    <string-array name="cars">
+        <item>Mini</item>
+        <item>HatchBack</item>
+        <item>Sedan</item>
+        <item>SUV</item>
+    </string-array>
+</resources>

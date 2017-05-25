@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:background="@drawable/bmw"
+    tools:context="com.example.dell.smartparking.MainActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+    </android.support.design.widget.AppBarLayout>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:layout_marginTop="80dp"
+        android:id="@+id/Name"
+        android:layout_gravity="top|start|end"
+        android:hint="@string/name"
+        android:textColor="@android:color/holo_blue_light"
+        android:textColorHint="@android:color/holo_blue_light" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:layout_marginTop="150dp"
+        android:id="@+id/Password"
+        android:layout_gravity="top|start|end"
+        android:textColor="@android:color/holo_blue_light"
+        android:textColorHint="@android:color/holo_blue_light"
+        android:hint="@string/password" />
+
+    <TextView
+        android:text="@string/smart_parking"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/SmartParking"
+        android:layout_marginTop="20dp"
+        android:textSize="30sp"
+        android:textStyle="normal|bold"
+        android:textAlignment="center"
+        android:layout_gravity="top|start|end"
+        android:textColor="@android:color/holo_blue_bright" />
+
+    <Button
+        android:text="@string/login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="220dp"
+        android:layout_marginStart="70dp"
+        android:id="@+id/Login"
+        android:textColor="@color/colorAccent"
+        android:textStyle="normal|bold|italic"
+        android:onClick="onLogin" />
+
+    <Button
+        android:text="@string/register"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="220dp"
+        android:layout_marginStart="240dp"
+        android:id="@+id/Register"
+        android:textColor="@color/colorAccent"
+        android:textStyle="normal|bold|italic"
+        android:onClick="onRegister" />
+
+</android.support.design.widget.CoordinatorLayout>

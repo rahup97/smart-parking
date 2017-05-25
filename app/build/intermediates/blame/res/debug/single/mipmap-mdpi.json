@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/apple/Downloads/SmartParking/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/apple/Downloads/SmartParking/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/projects/SmartParking/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/apple/Desktop/projects/SmartParking/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/Downloads/SmartParking/C:\\Users\\Dell\\AndroidStudioProjects\\SmartParking\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "/Users/apple/Downloads/SmartParking/C:\\Users\\Dell\\AndroidStudioProjects\\SmartParking\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

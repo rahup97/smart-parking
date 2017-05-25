@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Desktop/projects/SmartParking/app/build/intermediates/exploded-aar/com.android.support/transition/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/Users/apple/Desktop/projects/SmartParking/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.2.0_b6a77496f9061803f02d182bde3e0abd215b7baa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Desktop/projects/SmartParking/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/apple/Desktop/projects/SmartParking/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.2.0_4988f70883835e11a9d24398e671878eaa62069b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Desktop/projects/SmartParking/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/apple/Desktop/projects/SmartParking/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.2.0_97ceee0921689a7f0c690e6233d83839b4a2c253.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/apple/Desktop/projects/SmartParking/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_35573d554e646d724ce47ccaa20d475ce6a3c125.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Desktop/projects/SmartParking/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/apple/Desktop/projects/SmartParking/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.2.0_d4f2d3aa8131950f0e0aae93d8475fd76c5c7fa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Desktop/projects/SmartParking/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/apple/Desktop/projects/SmartParking/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_40199e758add430ba761b64878d7b40d9e65fd87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Desktop/projects/SmartParking/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/apple/Desktop/projects/SmartParking/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_3d21cc8bfe47a930c66cd636efb2abc298bd34aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Desktop/projects/SmartParking/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/apple/Desktop/projects/SmartParking/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_eda0b3dcae87b68453e3e45cba4b35e2ebbe3fc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Desktop/projects/SmartParking/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/Users/apple/Desktop/projects/SmartParking/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.2.0_4a267a107d7af33bd1348d07cdb466ddb84c430c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Desktop/projects/SmartParking/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/apple/Desktop/projects/SmartParking/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_7c7065120c6d06a64c05e248cd1ff832cd5f00fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Desktop/projects/SmartParking/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/apple/Desktop/projects/SmartParking/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_4eecf52df24d512188284d7e42d4fd50477ddf03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Desktop/projects/SmartParking/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/apple/Desktop/projects/SmartParking/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.2.0_e6cc6ea8d014f01df543ea2db53ea45adb00decc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Desktop/projects/SmartParking/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/apple/Desktop/projects/SmartParking/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_9dc1c30b4fcd367461af57b6631aa2695aebfc76.jar" />
+    </item>
+
+</items>
