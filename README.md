@@ -6,4 +6,5 @@ The depiction of the status of the parking lot is done by LEDs(Red-unavailable, 
 The .ino file has also been uploaded with respect to the pin numbers we have used.
 The bluetooth on your android device must be switched on before the app is opened, and connection(pairing) between the module an device must be done before the app is started.
 
+AUTHORS- RAHUL M PATIL and N.R.VINAY
 
