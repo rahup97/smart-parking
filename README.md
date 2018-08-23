@@ -1,6 +1,6 @@
 # smart-parking
 
-An implementation of the paper titled "Application-based Smart Parking System using CAN Bus", which can be found (here)[http://iaescore.com/journals/index.php/IJEECS/article/view/12391]. The text can be found in the __PDF__ link under the __Full Text__ section.
+An implementation of the paper titled "Application-based Smart Parking System using CAN Bus", which can be found [here](http://iaescore.com/journals/index.php/IJEECS/article/view/12391). The text can be found in the __PDF__ link under the __Full Text__ section.
 
 ## Implementation
 The system proposed uses the Arduino Uno to gather sensor data as well as communicate with external devices and modules. Each Arduino is interfaced with an HC-05 Bluetooth module to communicate with our Android devices. These HC- 05 modules are used to represent the Arduinos as being nodes in an interconnected network. Each of the nodes are interfaced with HC-SR04 ultrasonic sensors that are used to detect the occupancy of the parking slots by using ultrasonic signals to detect distance to objects.
