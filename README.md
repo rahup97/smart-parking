@@ -24,7 +24,7 @@ The distinction in the frame identifiers is what aids in identification of which
 The Bluetooth on your Android device must be switched on before the app is opened, and connection (pairing) between the module and the device must be done prior to the launching of the app.
 
 ### Authors
-- N.R. Vinay
+- N.R. Vinay [[VinayNR](https://github.com/VinayNR)]
 - Rahul M Patil
 - Pratiba D
 
