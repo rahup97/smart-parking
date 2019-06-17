@@ -9,7 +9,16 @@ We have witnessed a rapid growth in the Internet of Things and its contribution 
 ## Cite us
 Please cite our paper if it helped you in your work, thank you!
 
-Rahul Muppanagouda Patil, N R Vinay, Pratiba D, "Application-based Smart Parking System using CAN Bus," _Indonesian Journal of Electrical Engineering and Computer Science_, Vol. 12, No. 2, November 2018. 
+```
+@article{Patil2018,
+title = {Application-based smart parking system using CAN bus},
+journal = {Indonesian Journal of Electrical Engineering and Computer Science},
+year = {2018},
+volume = {12},
+number = {2},
+pages = {759-764},
+author = {Patil, R.M. and Vinay, N.R. and Pratiba, D.}} 
+```
 
 (__doi__: 10.11591/ijeecs.v12.i2.pp759-764)
 
